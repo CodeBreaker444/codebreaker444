@@ -31,9 +31,9 @@
 
 ### Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
-<p><img height="170px" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebreaker444&layout=compact" alt="codebreaker444" /></p>
+<p><img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebreaker444&layout=compact" alt="codebreaker444" /></p>
 
-<p>&nbsp;<img height="170px" width="500px" src="https://github-readme-stats.vercel.app/api?username=codebreaker444&show_icons=true" alt="codebreaker444" /></p>
+<p>&nbsp;<img height="170px" src="https://github-readme-stats.vercel.app/api?username=codebreaker444&show_icons=true" alt="codebreaker444" /></p>
 
 <p align="center">
 <a href="https://twitter.com/codebreaker444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codebreaker444" height="30" width="30" /></a>
