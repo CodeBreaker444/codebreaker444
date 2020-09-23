@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I completed watching over 30 webseries from varios streaming platforms.**
 
-### Blogs posts
+### Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ –Reverse Engineering AP Fibernet IPTV (Watch Free TV)](https://blog.govardhanchitrada.com/Reverse-Engineering-AP-Fibernet-IPTV-APSFL/)
 - [My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:28/08/2020].](https://blog.govardhanchitrada.com/MY-PICK-WEBSERIES-WHICH-I-HAVE-PERSONALLY-WATCHED/)
