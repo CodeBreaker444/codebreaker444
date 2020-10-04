@@ -18,11 +18,11 @@
 ### Latest Articles ###
 ----------------------------------------------------------------------------------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
+- [My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖](https://blog.govardhanchitrada.com/Raspberrypi-as-VScodeServer-with-remote-access-using-introspected-tunnels/)
+- [Netflix VPN🛡 detection bypass🏴‍☠️(Not solved) - How I created my own vpn server .](https://blog.govardhanchitrada.com/Netflix-VPN-Detection-Bypass/)
 - [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ –Reverse Engineering AP Fibernet IPTV (Watch Free TV)](https://blog.govardhanchitrada.com/Reverse-Engineering-AP-Fibernet-IPTV-APSFL/)
 - [My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:28/08/2020].](https://blog.govardhanchitrada.com/MY-PICK-WEBSERIES-WHICH-I-HAVE-PERSONALLY-WATCHED/)
 - [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ -How i hacked heartynote for complete account takeover](https://blog.govardhanchitrada.com/How-i-hacked-heartynote/)
-- [Hack into Internet🌐 cafe WIFI connection with this trick even it is disabled -Pretty Easy](https://blog.govardhanchitrada.com/Hack-into-internet-cafe-wifi/)
-- [Hashcat Nvidia GeForce GTX 1070 Benchmark🚄, No bottlenecking🍾 (Updated!)](https://blog.govardhanchitrada.com/Hashcat-nvidia-gtx1070-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technical Skills ###
