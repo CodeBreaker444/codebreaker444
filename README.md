@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Redux, Rust, ROBOT OS**
 
+- 💪🏻 I'm currently working on **Simultaneous Localization and Mapping of a Mobile robot which includes proprioceptive and exteroceptive sensing**
+
 - 👨‍💻 All of my projects are available at [https://govardhanchitrada.com](https://govardhanchitrada.com)
 
 - 📝 I regulary write articles on [https://blob.govardhanchitrada.com](https://blob.govardhanchitrada.com)
 
-- 💬 Ask me about **binary exploitation, reverse engineering and ofcourse Deeplearning.**
+- 💬 Ask me about **binary exploitation, reverse engineering and ofcourse Deep Neural Networks.**
 
 - 📫 How to reach me **zeroerror.444@gmail.com**
 
