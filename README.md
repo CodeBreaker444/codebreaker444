@@ -20,11 +20,11 @@
 ### Latest Articles ###
 ----------------------------------------------------------------------------------------------------------------------------
 <!-- BLOG-POST-LIST:START -->
-- [My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖](https://blog.govardhanchitrada.com/Raspberrypi-as-VScodeServer-with-remote-access-using-introspected-tunnels/)
+- [How I managed💪🏻 to bypass safe exam browser security🛡 restrictions [Exam.net as Exam platform]](https://blog.govardhanchitrada.com/Bypass-Safe-Exam-Browser-Restrictions/)
+- [My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖](https://blog.govardhanchitrada.com/Raspberrypi-as-VScodeServer-with-remote-access-using-introspected-tunnels-copy/)
 - [Netflix VPN🛡 detection bypass🏴‍☠️(Not solved) - How I created my own vpn server .](https://blog.govardhanchitrada.com/Netflix-VPN-Detection-Bypass/)
 - [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ –Reverse Engineering AP Fibernet IPTV (Watch Free TV)](https://blog.govardhanchitrada.com/Reverse-Engineering-AP-Fibernet-IPTV-APSFL/)
 - [My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:16/11/2020].](https://blog.govardhanchitrada.com/MY-PICK-WEBSERIES-WHICH-I-HAVE-PERSONALLY-WATCHED/)
-- [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ -How i hacked heartynote for complete account takeover](https://blog.govardhanchitrada.com/How-i-hacked-heartynote/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Technical Skills ###
