@@ -19,6 +19,10 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [How I managed💪🏻 to bypass safe exam browser security🛡 restrictions [Exam.net as Exam platform]](https://blog.govardhanchitrada.com/Bypass-Safe-Exam-Browser-Restrictions/)
+- [My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖](https://blog.govardhanchitrada.com/Raspberrypi-as-VScodeServer-with-remote-access-using-introspected-tunnels/)
+- [Netflix VPN🛡 detection bypass🏴‍☠️(Not solved) - How I created my own vpn server .](https://blog.govardhanchitrada.com/Netflix-VPN-Detection-Bypass/)
+- [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ –Reverse Engineering AP Fibernet IPTV (Watch Free TV)](https://blog.govardhanchitrada.com/Reverse-Engineering-AP-Fibernet-IPTV-APSFL/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
