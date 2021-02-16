@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **zeroerror.444@gmail.com**
 
-- ⚡ Fun fact **I completed watching over 30 webseries from varios streaming platforms.**
+- ⚡ Fun fact **I completed watching over 30 webseries on various streaming platforms.**
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -35,9 +35,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/c0d3br3ak3r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="c0d3br3ak3r" /></a></p><br><br>
-
+<br>
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebreaker444&show_icons=true&locale=en&layout=compact" alt="codebreaker444" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebreaker444&show_icons=true&locale=en" alt="codebreaker444" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebreaker444&" alt="codebreaker444" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codebreaker444&" alt="codebreaker444" /></p>
