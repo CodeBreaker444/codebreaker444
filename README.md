@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Govardhan Chitrada</h1>
+<h1 align="center">Hi there👋, I'm Govardhan Chitrada aka C0d3br3ak3r☠️</h1>
 <h3 align="center">A passionate A.I researcher with immense background in pentesting and programming in various technology fields. To test my skills I officially became C.E.H at the age of 19 and from that time my journey towards my goal has became more and more visible. Due to my field in security it's my obligation to get my expertise in FULL STACK development. My thought process always made me look into a all in one solution for security and development overhead is Artificial Intelligence. To increase my knowledge to a broad spectrum, I'm persuing my masters in ARTIFICIAL INTELLIGENCE AND ROBOTICS (University Of Rome).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebreaker444&label=Profile%20views&color=0e75b6&style=flat" alt="codebreaker444" /> </p>
