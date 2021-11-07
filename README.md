@@ -2,7 +2,8 @@
 <img src="my_banner.png"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebreaker444&label=Profile%20views&color=0e75b6&style=flat" alt="codebreaker444" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebreaker444&label=Profile%20views&color=0e75b6&style=flat" alt="codebreaker444" />&nbsp<img src="https://github.com/CodeBreaker444/codebreaker444/actions/workflows/blog-post-workflow.yml/badge.svg"> </p>
+
 <h4 align="justify" >A passionate A.I researcher with immense background in pentesting and programming in various technology fields. To test my skills, I officially became C.E.H at the age of 19 and from that time, my journey towards my goal has become more apparent. Because of my field in security, it's my obligation to get my expertise in FULL STACK development. My thought process always made me look into an all in one solution for security and development overhead which lead me to Artificial Intelligence. To gain academic knowledge related to state-of-art A.I research, I'm pursuing my masters in ARTIFICIAL INTELLIGENCE AND ROBOTICS (University Of Rome).
 <h4>
 
