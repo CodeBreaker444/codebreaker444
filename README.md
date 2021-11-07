@@ -30,6 +30,7 @@
 
 <h2 align="center">My latest writings</h3>
 <!-- BLOG-POST-LIST:START -->
+
  - [Human Interaction and Light🔦 sensing four-wheeled robot🤖 with Emotion Detection - Computer Vision](https://codebreaker444.github.io/light-sensing-emotion-detection-robotics-ai-emotion/) 
 
  - [Hybrid Convolutional Neural Network🧬 for Face Mask😷 detection and face cover detection🕵🏻‍♂️](https://codebreaker444.github.io/Hybrid-face-mask-detection-with-CNN/) 
