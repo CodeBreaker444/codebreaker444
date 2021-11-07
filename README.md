@@ -3,7 +3,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebreaker444&label=Profile%20views&color=0e75b6&style=flat" alt="codebreaker444" /> </p>
-<h3 align="justify" >A passionate A.I researcher with immense background in pentesting and programming in various technology fields. To test my skills I officially became C.E.H at the age of 19 and from that time my journey towards my goal has became more and more visible. Due to my field in security it's my obligation to get my expertise in FULL STACK development. My thought process always made me look into a all in one solution for security and development overhead is Artificial Intelligence. To increase my knowledge to a broad spectrum, I'm persuing my masters in ARTIFICIAL INTELLIGENCE AND ROBOTICS (University Of Rome).</h3>
+<h4 align="justify" >A passionate A.I researcher with immense background in pentesting and programming in various technology fields. To test my skills I officially became C.E.H at the age of 19 and from that time my journey towards my goal has became more and more visible. Due to my field in security it's my obligation to get my expertise in FULL STACK development. My thought process always made me look into a all in one solution for security and development overhead is Artificial Intelligence. To increase my knowledge to a broad spectrum, I'm persuing my masters in ARTIFICIAL INTELLIGENCE AND ROBOTICS (University Of Rome).<h4>
 
 ***
 
@@ -28,10 +28,15 @@
 
 <h2 align="center">My latest writings</h3>
 <!-- BLOG-POST-LIST:START -->
+
 - [How I managed💪🏻 to bypass safe exam browser security🛡 restrictions [Exam.net as Exam platform]](https://blog.govardhanchitrada.com/Bypass-Safe-Exam-Browser-Restrictions/)
+
 - [My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖](https://blog.govardhanchitrada.com/Raspberrypi-as-VScodeServer-with-remote-access-using-introspected-tunnels/)
+
 - [Netflix VPN🛡 detection bypass🏴‍☠️(Not solved) - How I created my own vpn server .](https://blog.govardhanchitrada.com/Netflix-VPN-Detection-Bypass/)
+
 - [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ –Reverse Engineering AP Fibernet IPTV (Watch Free TV)](https://blog.govardhanchitrada.com/Reverse-Engineering-AP-Fibernet-IPTV-APSFL/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ***
