@@ -29,15 +29,10 @@
 
 <h2 align="center">My latest writings</h3>
 <!-- BLOG-POST-LIST:START -->
-
-- [How I managed💪🏻 to bypass safe exam browser security🛡 restrictions [Exam.net as Exam platform]](https://blog.govardhanchitrada.com/Bypass-Safe-Exam-Browser-Restrictions/)
-
-- [My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖](https://blog.govardhanchitrada.com/Raspberrypi-as-VScodeServer-with-remote-access-using-introspected-tunnels/)
-
-- [Netflix VPN🛡 detection bypass🏴‍☠️(Not solved) - How I created my own vpn server .](https://blog.govardhanchitrada.com/Netflix-VPN-Detection-Bypass/)
-
-- [Vulnerability Assessment Writeup📄🕵️‍♀️☠️ –Reverse Engineering AP Fibernet IPTV (Watch Free TV)](https://blog.govardhanchitrada.com/Reverse-Engineering-AP-Fibernet-IPTV-APSFL/)
-
+- [Human Interaction and Light🔦 sensing four-wheeled robot🤖 with Emotion Detection - Computer Vision](https://codebreaker444.github.io/light-sensing-emotion-detection-robotics-ai-emotion/)
+- [Hybrid Convolutional Neural Network🧬 for Face Mask😷 detection and face cover detection🕵🏻‍♂️](https://codebreaker444.github.io/Hybrid-face-mask-detection-with-CNN/)
+- [Solving💪🏻 Mountain Car🚙 Continuous problem using Proximal Policy Optimization - Reinforcement Learning](https://codebreaker444.github.io/mountain-car-continuous-ppo-reinforcement-learning/)
+- [Optimistic Adaptive Accelaration For Optimization on CIFAR-10 dataset🐶🐈🚘✈️ for image classification - Computer Vision](https://codebreaker444.github.io/optimistic-adaptive-acceleration-for-optimization-cifar10/)
 <!-- BLOG-POST-LIST:END -->
 
 ***
