@@ -59,11 +59,11 @@
 
 <h2 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/codebreaker444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="color: red;" alt="codebreaker444" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/govardhan-chitrada-a64483152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/govardhan-chitrada-a64483152" height="30" width="40" /></a>
-<a href="https://fb.com/cod3br3ak3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cod3br3ak3r" height="30" width="40" /></a>
-<a href="https://instagram.com/codebreaker444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker444" height="30" width="40" /></a>
-<a href="/https://blog.govardhanchitrada.com/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://blog.govardhanchitrada.com/feed.xml" height="30" width="40" /></a>
+<a href="https://twitter.com/codebreaker444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="color: red;" alt="codebreaker444" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/govardhan-chitrada-a64483152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/govardhan-chitrada-a64483152" height="30" width="40" /></a>
+<a href="https://fb.com/cod3br3ak3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="cod3br3ak3r" height="30" width="40" /></a>
+<a href="https://instagram.com/codebreaker444" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="codebreaker444" height="30" width="40" /></a>
+<a href="/https://blog.govardhanchitrada.com/feed.xml" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/r/89/rss.svg" alt="https://blog.govardhanchitrada.com/feed.xml" height="30" width="40" /></a>
 </p>
 
 ***
