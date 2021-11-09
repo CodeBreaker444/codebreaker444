@@ -63,7 +63,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/govardhan-chitrada-a64483152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/govardhan-chitrada-a64483152" height="30" width="40" /></a>
 <a href="https://fb.com/cod3br3ak3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="cod3br3ak3r" height="30" width="40" /></a>
 <a href="https://instagram.com/codebreaker444" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="codebreaker444" height="30" width="40" /></a>
-<a href="/https://blog.govardhanchitrada.com/feed.xml" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/r/89/rss.svg" alt="https://blog.govardhanchitrada.com/feed.xml" height="30" width="40" /></a>
+<a href="https://blog.govardhanchitrada.com/feed.xml" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/r/89/rss.svg" alt="https://blog.govardhanchitrada.com/feed.xml" height="30" width="40" /></a>
 </p>
 
 ***
