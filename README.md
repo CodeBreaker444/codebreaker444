@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://govardhanchitrada.com](https://govardhanchitrada.com)
 
-- 📝 I regulary write articles on [https://blob.govardhanchitrada.com](https://blob.govardhanchitrada.com)
+- 📝 I regulary write articles on [https://blog.govardhanchitrada.com](https://blog.govardhanchitrada.com)
 
 - 💬 Ask me about **binary exploitation, reverse engineering and ofcourse Deeplearning.**
 
