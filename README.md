@@ -14,7 +14,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=codebreaker444&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-- 🌱 I’m currently learning **Redux, Rust, ROBOT OS**
+- 🌱 I’m currently working on **3D Models, VR Rendering, World Space**
 
 - 👨‍💻 All of my projects are available at [https://govardhanchitrada.com](https://govardhanchitrada.com)
 
